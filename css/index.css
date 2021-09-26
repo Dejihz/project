@@ -65,7 +65,7 @@ nav ul li {
   text-align: center;
   position: relative;
   color: white;
-  background-image: url(resources/index-bg.png);
+  background-image: url(/resources/index-bg.png);
   height: 300px;
 }
 
