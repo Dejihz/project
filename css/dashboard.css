@@ -104,6 +104,35 @@ td {
 .caption-link:active {
   color: #def849;
 }
+
+/* 2nd bodysection */
+
+.section {
+  padding-left: 5%;
+  text-align: center;
+  font-size: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: black;
+  color: white;
+}
+
+.content {
+  background-color: white;
+  min-height: 300px;
+}
+
+.footerItem {
+  margin-left: 25px;
+  padding-top: 25px;
+}
+
+.link {
+  font-size: 20px;
+  text-decoration: underline;
+  font-weight: bolder;
+  color: black;
+}
 /* Footer */
 .f {
   position: relative;

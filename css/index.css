@@ -84,22 +84,77 @@ nav ul li {
 }
 
 /* Body */
+
+/* Sections */
 .main {
-  min-height: 800px;
+  display: block;
+  position: relative;
+  min-height: 500px;
+  margin: auto;
+  width: 100%;
 }
 
-h1 {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  font-size: 50px;
+.h-section {
+  padding-left: 5%;
+  text-align: center;
+  font-size: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  /* box-shadow: 0px 0px 10px 2px black; */
+  background-color: black;
+  color: white;
 }
 
-.home-info {
+.tBody {
+  min-height: 200px;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.mBody {
+  min-height: 300px;
+}
+
+.bBody {
+  height: 300px;
+}
+
+.link {
+  text-decoration: none;
   color: black;
-  line-height: 50px;
+  font-weight: bold;
 }
+
+.link:hover {
+  color: rgb(124, 124, 124);
+}
+
+.link:active {
+  color: orange;
+}
+
+.hImg {
+  margin-top: 50px;
+  display: inline-block;
+  height: 400px;
+}
+
+.cImg {
+  float: left;
+  margin-left: 500px;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+
+.dImg {
+  float: left;
+  height: 200px;
+  width: 200px;
+  margin-left: 200px;
+  border-radius: 50%;
+}
+
 /* Footer */
 .f {
   position: relative;
