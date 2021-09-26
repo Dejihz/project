@@ -62,7 +62,7 @@ nav ul li {
 /* Main */
 .main {
   height: 650px;
-  background-image: url(/resources/index-bg.png);
+  background-image: url(resources/index-bg.png);
   padding-top: 50px;
 }
 

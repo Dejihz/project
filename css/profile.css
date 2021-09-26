@@ -68,7 +68,7 @@ nav ul li {
   padding-top: 20px;
   margin: auto;
   width: 100%;
-  background-image: url(/resources/index-bg.png);
+  background-image: url(resources/index-bg.png);
   background-repeat: no-repeat;
   text-align: center;
 }
