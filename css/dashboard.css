@@ -63,7 +63,6 @@ nav ul li {
 /*Main  */
 .main {
   min-height: 800px;
-  /* margin-left: 50px; */
   padding-top: 80px;
   background-image: url(../resources/index-bg.png);
 }
